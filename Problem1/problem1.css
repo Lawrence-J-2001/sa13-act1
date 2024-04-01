@@ -1,0 +1,14 @@
+header {
+    background-color: yellowgreen;
+    font-style: italic;
+}
+
+article {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+
+    padding: 20px;
+    margin: 15px;
+}
